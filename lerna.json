@@ -1,5 +1,5 @@
 {
-  "version": "6.15.7-testing.0",
+  "version": "6.15.7-zwily.0",
   "npmClient": "yarn",
   "useWorkspaces": true,
   "packages": [

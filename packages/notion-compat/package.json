@@ -1,6 +1,6 @@
 {
   "name": "@zwily/notion-compat",
-  "version": "6.15.7-testing.0",
+  "version": "6.15.7-zwily.0",
   "type": "module",
   "description": "Compatibility layer between the official Notion API and unofficial private API.",
   "repository": "NotionX/react-notion-x",
