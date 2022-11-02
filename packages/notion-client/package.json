@@ -1,5 +1,5 @@
 {
-  "name": "notion-client",
+  "name": "@zwily/notion-client",
   "version": "6.15.7-testing.0",
   "type": "module",
   "description": "Robust TypeScript client for the unofficial Notion API.",
@@ -41,5 +41,6 @@
       "--no-warnings",
       "--experimental-specifier-resolution=node"
     ]
-  }
+  },
+  "gitHead": "c93a430d8834a56e06869385e75e22c10f520678"
 }
